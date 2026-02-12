@@ -1,4 +1,4 @@
-# 🕷️ Bug Hunter Agent (Version 4)
+# 🕷️ Bug Hunter Agent
 
 **Eliminating Coding Hallucinations with Agentic AI + Static Analysis + RAG.**
 

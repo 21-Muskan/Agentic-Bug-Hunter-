@@ -7,8 +7,8 @@ Bug Hunter is an advanced AI coding assistant designed for embedded systems. Unl
 2.  **RAG (Retrieval-Augmented Generation)** for proprietary API knowledge.
 3.  **Agentic Reasoning** (Qwen 2.5 72B) for high-level logic.
 
-![Bug Hunter UI - Analysis View](UI/1.png)
-![Bug Hunter UI - Home Dashboard](UI/2.png)
+![Bug Hunter UI - Analysis View](UI/2.png)
+![Bug Hunter UI - Home Dashboard](UI/1.png)
 
 ---
 

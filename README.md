@@ -107,5 +107,7 @@ Open `http://localhost:8501` in your browser.
 
 ## 🏆 Acknowledgements
 
-Built with ❤️ using **FastMCP**, **LlamaIndex**, and **Streamlit**.
-Special thanks to the **Alienbrain** team for the architecture inspiration.
+Buid it with my teammeats:
+1. Rahul Sahebrao Kshirsagar
+2. Prasanna Patwardhan 
+3. Prema Dongare
